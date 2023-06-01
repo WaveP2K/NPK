@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.adjust-a {
+    text-decoration: none;
+    color: black;
+}
+
+.adjust-a-underline {
+    text-decoration: none;
+}
+
+.non-under-line {
+    text-decoration: none;
+    color: black;
+}
+
+.img-adjust {
+    width: 270px;
+    height: 270px;
+}
+
+.gray {
+    background-color: rgb(189, 189, 189);
+}
